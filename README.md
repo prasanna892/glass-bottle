@@ -6,4 +6,4 @@
 
 ## Output
 
-<img src="https://github.com/prasanna892/Light-Out-Game/blob/main/gif.gif" />
+<img src="https://github.com/prasanna892/glass-bottle/blob/main/glass%20botte%20v2.png" />
